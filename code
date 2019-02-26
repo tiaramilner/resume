@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <style>
+
+        .links {text-align: center}
+
+        h1 {text-align: center}
+
+        h2 {color: deeppink}
+
+    </style>
+
+</head>
+
+<body>
+
+<div class="links"><a href="#edu">Education</a> - <a href="#skl">Skills</a> - <a href="#exp">Experience</a> - <a href="#obj">Objective</a></div>
+
+<h1>Aretha Juniper</h1>
+
+<div class="links">Brooklyn <a href="mailto:arethajuniper@yahoo.com">arethajuniper@yahoo.com</a>
+
+
+
+</div>
+<h2 id="obj">Objective</h2>
+
+<p>
+
+    Outgoing Certified Public Accountant with an MBA and +2 years of experience in specialized tax services. Seeking to leverage my technical and professional expertise to grow in the new role of Accountant at your company.
+
+
+
+
+</p>
+
+
+
+
+<h2 id="edu">Education</h2>
+
+<p> <ul>
+    <li> Howard University, Washington, D.C. </li><br/>
+    B.S./ M.S. Marine Psychology :) <br/>
+    2004-2008
+</ul>
+</p>
+
+<h2 id="skl">Skills</h2>
+
+<p><ul><li>Running my mouth</li>
+<li>Speaking to fish</li>
+<li>Solving marine marital disputes</li></ul>
+</p>
+
+<h2 id="exp">Experience</h2>
+
+<p>Telluride Association - Factom- October 2017- Present
+<ul>
+
+    <li>ljk;sfd jsad;flkj;l fkjasd;l fkajf; lakjfan</li>
+
+    <li>sdaf lksadjf ;lksadj f;lsakd fjsa;ldfk jsad</li>
+
+    <li>sdafl kjsad;lf ksjadf;l ksadjf;lsakdj fas;ldk fjsa</li>
+
+</ul>
+Haiti - Rebellion Leader - June 2013 - Sept 2017
+<ul>
+
+    <li>kdhfhsfhlskjfoirjalmflkjnoirlkjfnilekrjnfoidlskjfmoirjldfmolkd</li>
+    <li>kdhfhsfhlskjfoirjalmflkjnoirlkjfnilekrjnfoidlskjfmoirjldfmolkd</li>
+    <li>kdhfhsfhlskjfoirjalmflkjnoirlkjfnilekrjnfoidlskjfmoirjldfmolkd</li>
+</ul>
+
+
+
+</p>
+
+
+
+
+
+
+</body>
+
+</html>
